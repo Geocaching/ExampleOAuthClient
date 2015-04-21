@@ -1,0 +1,32 @@
+﻿html
+{
+    margin: 20px;
+    font-family: Verdana;
+    font-size: 80%;
+}
+input
+{
+    font-family: Verdana;
+    font-size: 100%;
+}
+.bold
+{
+    font-weight: bold;
+}
+blockquote
+{
+    font-size: 85%;
+    padding: 15px;
+    border: 1px solid #000;
+    background-color: #666;
+    color: #fff;
+}
+.description
+{
+    font-size: 85%;
+}
+.success
+{
+    color:Green;
+}
+
